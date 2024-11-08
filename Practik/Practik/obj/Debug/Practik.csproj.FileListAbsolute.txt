@@ -1,0 +1,14 @@
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\bin\Debug\Practik.exe.config
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\bin\Debug\Practik.exe
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\bin\Debug\Practik.pdb
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.csproj.AssemblyReference.cache
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.csproj.SuggestedBindingRedirects.cache
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.Form1.resources
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.Properties.Resources.resources
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.csproj.GenerateResource.cache
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.csproj.CoreCompileInputs.cache
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.exe
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.pdb
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.Razrab.resources
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.Rukovoditel.resources
+C:\Users\fgleb\OneDrive\Рабочий стол\Practik\Practik\obj\Debug\Practik.TIMLID.resources
